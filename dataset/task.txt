@@ -1,3 +1,1 @@
-Google Play Store apps and reviews
 
-Your task in these evetn is to analyze this dataset, provided in the dataset/ directory and build your insights on the data, which must be later presented as a powerpoint presentation!
