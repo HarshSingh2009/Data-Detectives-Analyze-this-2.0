@@ -44,7 +44,9 @@ Let's take a look at the data, which consists of two files:
 * `user_reviews.csv`: contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed and attributed with three new features: Sentiment (Positive, Negative or Neutral), Sentiment Polarity and Sentiment Subjectivity.
 
  
-**💡 Hint**: You'll have to merge both `app.csv` and `users_reviews.csv` in order to perform data-analyzation more effeciently
+**💡 Hint:**
+1. **Dataset must be cleaned since it has a few raw contents**
+2. **You'll have to merge both `app.csv` and `users_reviews.csv` on App column (its a common column/feature in both the .csv files) in order to perform data-analyzation more effeciently**
 
 All columns of the both csv files dataset are very much understandable, so we are not sharing detailed info on each column
 
